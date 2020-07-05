@@ -51,3 +51,7 @@ Ionic CLI can build the frontend into static HTML/CSS/JavaScript files. These fi
 ionic build
 ```
 ***
+
+
+### public docker image of my fronted
+https://hub.docker.com/r/pouemo12/pouemo
